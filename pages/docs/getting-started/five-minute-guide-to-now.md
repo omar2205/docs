@@ -10,7 +10,7 @@ import Now from '../../../components/now/now'
 export const meta = {
   title: 'Five-Minute Guide to Now',
   description: 'A quick-start guide to deploying your Node.js, Docker, or static apps with Now and what you can do with your deployments',
-  date: '30 July 2017',
+  date: '27 July 2017',
   authors: [leo, arunoda],
   editUrl: 'pages/docs/getting-started/five-minute-guide-to-now.md'
 }

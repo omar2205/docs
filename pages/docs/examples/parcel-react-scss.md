@@ -1,6 +1,5 @@
 import withDoc from '../../../lib/with-doc'
 
-import { sergio } from '../../../lib/data/team'
 import Now from '../../../components/now/now'
 import { InternalLink } from '../../../components/text/link'
 import { TerminalInput } from '../../../components/text/terminal'
